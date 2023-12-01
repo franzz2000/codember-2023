@@ -1,4 +1,5 @@
-** El reto **
+# El reto
+
 Un espía está enviando mensajes encriptados.
 
 Tu misión es crear un programa que nos ayude a buscar patrones...
